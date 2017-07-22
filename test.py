@@ -1,3 +1,3 @@
-print("Enter your name sir")
+print("Enter your name ")
 with open("/tmp/test","w+") as f:
-     f.write("Testing file")
+     f.write("Testing file from Bobin")
