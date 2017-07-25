@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "welcome"
+echo "welcome to otty"
 touch /tmp/jenfile
 touch $1
